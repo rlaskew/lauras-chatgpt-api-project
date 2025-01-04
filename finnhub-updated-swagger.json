@@ -8,13 +8,11 @@
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     }
   },
-  "host": "finnhub.io",
   "servers": [
     {
-      "url": "https://finnhub.io"
+      "url": "https://finnhub.io/api/v1"
     }
   ],
-  "basePath": "/api/v1",
   "schemes": [
     "https"
   ],
